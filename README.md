@@ -1,4 +1,4 @@
-# Sahil Bhoite - Portfolio Website
+# Maheshwari Jadhav - Portfolio Website
 
 Welcome to my personal portfolio website. This project showcases my skills, projects, and experiences in software engineering, AI, and machine learning.
 
